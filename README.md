@@ -120,12 +120,13 @@ ___
   ```text
   Authorization: Bearer <your-token>
 
-**Logout:**
+- **Logout:**
   - **POST /logoutStudent**
-  ```json`
+  ```json
   {
     "token": "<your-token>"
   }
+
 
 
 ___
