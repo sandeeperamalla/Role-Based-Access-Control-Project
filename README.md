@@ -122,7 +122,7 @@ ___
 
 **Logout:**
   - **POST /logoutStudent**
-  ```json
+  ```json`
   {
     "token": "<your-token>"
   }
@@ -154,6 +154,7 @@ ___
 ## **License**
 
 This project does not have a license yet. Please check with the project owner for more details.
+
 
 
 
