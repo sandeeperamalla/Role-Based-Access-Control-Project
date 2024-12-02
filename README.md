@@ -37,7 +37,7 @@ ___
 
 ## **Configure the Application**
 
-**# Configure the Application**
+
 
 1) Update the `application.properties` file:
 - **Database Configuration:**
