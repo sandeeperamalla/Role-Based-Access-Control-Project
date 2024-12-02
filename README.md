@@ -28,9 +28,10 @@ ___
 
 ## **Getting Started**
 
-Clone the Repository
-git clone https://github.com/sandeeperamalla/Role-Based-Access-Control-Project.git
-cd Role-Based-Access-Control-Project
+- **Clone the Repository:**
+  ```bash
+  git clone https://github.com/sandeeperamalla/Role-Based-Access-Control-Project.git
+  cd Role-Based-Access-Control-Project
 
 ___
 
@@ -93,7 +94,7 @@ ___
 
 ___
 
-**# How To Use**
+# **How To Use**
 
 - **Register a User:**
   - **POST /registerStudent**
