@@ -4,7 +4,7 @@ This project demonstrates a Role-Based Access Control (RBAC) system implemented 
 
 ___
 
-**# Features:**
+# **Features:**
 - **User Registration and Login:** Secure registration and login endpoints.
 - **Role Management:** Predefined roles (USER, ADMIN, MODERATOR) for different access levels.
 - **JWT Authentication:** Stateless authentication using JSON Web Tokens (JWT).
@@ -15,7 +15,7 @@ ___
 
   ___
 
-**# Prerequisites**
+# **Prerequisites**
 - **Java 17+**
 - **Maven**
 - **Spring Boot 3+**
